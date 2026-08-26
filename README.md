@@ -127,8 +127,8 @@ Além do cenário espacial, a arquitetura representa padrões aplicáveis a sist
 ## Como executar
 
 ```bash
-git clone https://github.com/camposdigo/GS-CPAD.git
-cd GS-CPAD
+git clone https://github.com/camposdigo/mission-control-ai.git
+cd mission-control-ai
 npm install
 npm run start:lan
 ```
